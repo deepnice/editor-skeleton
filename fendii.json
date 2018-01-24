@@ -4,9 +4,9 @@
   "description": "Replace this with a description of your editor.",
   "version": "0.1.0",
   "vantage": {
-    "game": "Game Name",
-    "scid": "00000000-0000-0000-0000-000000000000",
-    "thumbnailUrl": "https://i.imgur.com/hgdfCBd.png",
+    "game": "NBA 2K18",
+    "scid": "b745f8c3e256b0b5",
+    "thumbnailUrl": "https://imgur.com/t/nba2k18",
     "name": "Campaign Editor",
     "containerFilter": "savegame.svg",
     "fileFilter": "save"
